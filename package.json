@@ -1,0 +1,50 @@
+{
+  "name": "@terronex/engram-trace-lite",
+  "version": "0.1.0",
+  "description": "Lightweight memory consolidation for Engram — decay, deduplication, and summarization without an agent loop.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "engram",
+    "memory",
+    "consolidation",
+    "decay",
+    "deduplication",
+    "ai",
+    "terronex"
+  ],
+  "author": {
+    "name": "Terronex",
+    "email": "contact@terronex.dev",
+    "url": "https://terronex.dev"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Terronex-dev/engram-trace-lite.git"
+  },
+  "homepage": "https://github.com/Terronex-dev/engram-trace-lite#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@terronex/engram": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3",
+    "vitest": "^3.0.0"
+  },
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "LICENSE"
+  ]
+}

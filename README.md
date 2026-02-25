@@ -190,3 +190,10 @@ const { memories: consolidated, report } = await consolidate(memories);
 ## License
 
 MIT -- Terronex
+
+
+## Disclaimer
+
+This software is provided as-is under the MIT license. It is under active development and has not undergone a third-party security audit. The encryption implementation (AES-256-GCM with argon2id/PBKDF2) has not been independently verified.
+
+Do not use this software as the sole protection for sensitive data without your own due diligence. The authors and Terronex are not liable for data loss, security breaches, or any damages arising from the use of this software. See LICENSE for full terms.

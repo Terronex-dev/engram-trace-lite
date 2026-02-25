@@ -1,5 +1,9 @@
 # Engram Trace Lite
 
+[![npm version](https://img.shields.io/npm/v/@terronex/engram-trace-lite.svg)](https://www.npmjs.com/package/@terronex/engram-trace-lite)
+[![Powered by Engram](https://img.shields.io/badge/Powered%20by-Engram-ef4444)](https://github.com/Terronex-dev/engram)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Lightweight, stateless memory consolidation for the [Engram](https://github.com/Terronex-dev/engram) ecosystem.
 
 ---

@@ -1,6 +1,6 @@
 {
   "name": "@terronex/engram-trace-lite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight memory consolidation for Engram — decay, deduplication, and summarization without an agent loop.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

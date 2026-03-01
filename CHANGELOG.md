@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.1 (2026-02-28)
+
+### Updates
+
+- Updated to @terronex/engram@2.1.0 (V2.1 spatial intelligence)
+- Compatible with spatial features (consolidation middleware unchanged)
+
 ## 0.1.0 (2026-02-24)
 
 ### Features

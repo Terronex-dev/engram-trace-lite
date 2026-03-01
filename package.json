@@ -35,7 +35,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@terronex/engram": "^2.0.1"
+    "@terronex/engram": "^2.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",

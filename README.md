@@ -4,7 +4,7 @@
 [![Powered by Engram](https://img.shields.io/badge/Powered%20by-Engram-ef4444)](https://github.com/Terronex-dev/engram)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Lightweight, stateless memory consolidation for the [Engram](https://github.com/Terronex-dev/engram) ecosystem.
+Lightweight, stateless memory consolidation for the [Engram](https://github.com/Terronex-dev/engram) ecosystem. Compatible with Engram V2.1 spatial features.
 
 ---
 
